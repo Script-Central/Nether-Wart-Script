@@ -1,0 +1,16 @@
+[
+{
+  "modid": "netherwart",
+  "name": "Script Central Nether Wart Script",
+  "description": "This is a Hypixel Skyblock nether wart script made by Conr#5290 on discord.",
+  "version": "${version}",
+  "mcversion": "1.4",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Conr#5290"],
+  "credits": "Conr#5290",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
