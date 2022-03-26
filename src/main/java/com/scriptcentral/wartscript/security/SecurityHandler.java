@@ -44,3 +44,4 @@ public class SecurityHandler {
     public boolean getScriptPerfState() {
         return hasPerf;
     }
+}
